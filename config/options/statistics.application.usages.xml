@@ -1,0 +1,68 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="javaScript Scope Usages">
+      <project id="demo" values="Project,Project" collectionTime="1470317424541" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="demo" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1470317424496" />
+    </group>
+    <group name="module type">
+      <project id="demo" values="JAVA_MODULE" collectionTime="1470317424495" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="demo" values="JUnit" collectionTime="1470317424496" />
+    </group>
+    <group name="file-type">
+      <project id="demo" values="XML,JAVA,JSP,Properties,SQL" collectionTime="1470317424516" />
+    </group>
+    <group name="images.ide.background">
+      <project id="demo" values="editor=0,frame=0" collectionTime="1470317424532" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="demo" values="MySQL/5.7.13" collectionTime="1470317424716" />
+    </group>
+    <group name="Spring MVC">
+      <project id="demo" values="viewResolvers_1,fileset_webXml,mvcModelsInProject_1,viewResolver_UrlBasedViewResolver_.jsp" collectionTime="1470317424859" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="demo" values="com.mysql.jdbc.Driver" collectionTime="1470317424716" />
+    </group>
+    <group name="spring">
+      <project id="demo" values="xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_xmlContext,xmlNS_www.springframework.org/schema/jee,fileset_configFiles5,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/util" collectionTime="1470317424719" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="demo" values="ECMAScript 5.1" collectionTime="1470317424542" />
+    </group>
+    <group name="Git">
+      <project id="demo" values="config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.ssh.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled" collectionTime="1470317424534" />
+    </group>
+    <group name="libraries">
+      <project id="demo" values="spring-mvc,spring" collectionTime="1470317424532" />
+    </group>
+    <group name="frameworks">
+      <project id="demo" values="Spring,web" collectionTime="1470317424495" />
+    </group>
+    <group name="language-level">
+      <project id="demo" values="JDK_1_8" collectionTime="1470317424533" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Console_Font" count="1" />
+      <entry feature="ide.settings.File_Types" count="1" />
+      <entry feature="ide.settings.Font" count="2" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.Maven" count="1" />
+      <entry feature="ide.settings.Updates" count="1" />
+      <entry feature="ideaapp.started" count="1" />
+      <entry feature="welcome.screen.ConfigureIcs" count="1" />
+      <entry feature="welcome.screen.WelcomScreen.ManageLicense" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.Documentation" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="2" />
+    </counts>
+  </component>
+</application>

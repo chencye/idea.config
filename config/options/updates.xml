@@ -1,0 +1,6 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <option name="CHECK_NEEDED" value="false" />
+    <option name="SECURE_CONNECTION" value="false" />
+  </component>
+</application>

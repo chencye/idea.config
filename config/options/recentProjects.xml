@@ -1,0 +1,30 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:\work\workspace\demo" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="D:\work\workspace\demo" />
+      </list>
+    </option>
+    <option name="lastPath" value="D:\work\workspace\demo" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="D:\work\workspace\demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.1447.26" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\JetBrains\IntelliJ IDEA 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1470317213384" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
